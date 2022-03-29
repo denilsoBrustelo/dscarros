@@ -1,10 +1,11 @@
+import 'assets/styles/custom.scss';
 import './App.css';
+
+import Routes from 'Routes';
 
 function App() {
   return (
-    <div >
-      <h1>DS Carros</h1>
-    </div>
+    <Routes />
   );
 }
 

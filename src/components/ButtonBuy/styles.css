@@ -1,0 +1,14 @@
+.btn-container {
+    display: flex;
+}
+
+.btn-container button {
+    border-radius: 0px 0px 0px 0px;
+}
+
+
+.btn h6 {
+    color: #fff;
+    font-size: 12px;
+    text-transform: uppercase;
+}
